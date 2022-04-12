@@ -8,7 +8,7 @@ Here's what you need to know:
 - I use Bitwarden as my one and only password manager
 - I don't have any other extensions than uBlock Origin and Bitwarden
 - I use Windows 11, x86-64
-- I never sync my browsimg data
+- I never sync my browsing data
 - I self host my [Instance of Whoogle](https://github.com/benbusby/whoogle-search)
 
 Now, my list:
