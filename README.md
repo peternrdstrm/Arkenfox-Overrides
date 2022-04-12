@@ -49,3 +49,11 @@ user_pref("browser.search.suggest.enabled", true); //enables search suggestions
 user_pref("browser.urlbar.suggest.searches", true);//enables search suggestions in the url-bar`
 
 This list will change over time, I'll do my best to keep it updated, if I find out more stuff, that's worth changeing. 
+
+##Additional Notes
+
+1. Contributions are accepted, both in tweaks to the flags themselves and the explanations I provided, as my research was rather limited. 
+2. Feel free to fork this, it's MIT Licenesed
+3. Don't open issues about philosopy related problems such as enableing sync
+
+
